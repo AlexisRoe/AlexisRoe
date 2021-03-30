@@ -10,7 +10,7 @@
 <br />
 
 - 🔭 I’m currently working on new metrics and tools for my bootcamp capstone project [Artemis](https://github.com/AlexisRoe/Artemis)<br />
-- 🌱 I’m currently learning **[Typescript](https://www.typescriptlang.org/), Server-Side-Rendering ([Next.js](https://nextjs.org/), [PostgreSQL](https://www.postgresql.org/) with [pg-promise](https://github.com/vitaly-t/pg-promise)**
+- 🌱 I’m currently learning **[Typescript](https://www.typescriptlang.org/), Server-Side-Rendering ([Next.js](https://nextjs.org/)), [PostgreSQL](https://www.postgresql.org/) with [pg-promise](https://github.com/vitaly-t/pg-promise)**
 - 🔑 I’m passionate about security, authentication and information representation
 
 ### Language and Tools
