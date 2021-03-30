@@ -6,7 +6,7 @@
 
 > NEVER GIVE UP ON A DREAM JUST <br/> BECAUSE OF THE TIME IT WILL TAKE TO ACCOMPLISH IT. <br/>
 > THE TIME WILL PASS ANYWAY.<br /> 
-###### *EARL NIGHTINGALE*
+> ###### **_EARL NIGHTINGALE_**
 <br />
 
 - 🔭 I’m currently working on new metrics and tools for my [Capstone Project](https://github.com/AlexisRoe/Artemis)
