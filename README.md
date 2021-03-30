@@ -1,5 +1,5 @@
 ## Moin Moin, I´m Alexis 
-### Trainee at Bootcamp - Neue Fische Cologne
+### Junior Backend Engineer - SoSafe GmbH
 
 [![Linkedin: Alexis Roehrling](https://img.shields.io/badge/-alexisroehrling-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/inalexisroehrling/)](https://www.linkedin.com/in/alexisroehrling/)
 [![Gmail: Alexis Roehrling](https://img.shields.io/badge/-A.Roehrling-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:A.Roehrling+githubprofile@gmail.com)](mailto:A.Roehrling+githubprofile@gmail.com) 
