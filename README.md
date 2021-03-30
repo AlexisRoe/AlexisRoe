@@ -4,8 +4,8 @@
 [![Linkedin: Alexis Roehrling](https://img.shields.io/badge/-alexisroehrling-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/inalexisroehrling/)](https://www.linkedin.com/in/alexisroehrling/)
 [![Gmail: Alexis Roehrling](https://img.shields.io/badge/-A.Roehrling-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:A.Roehrling+githubprofile@gmail.com)](mailto:A.Roehrling+githubprofile@gmail.com) 
 
-> "NEVER GIVE UP ON A DREAM JUST BECAUSE OF THE TIME IT WILL TAKE TO ACCOMPLISH IT. 
-> THE TIME WILL PASS ANYWAY.”<br /> 
+> NEVER GIVE UP ON A DREAM JUST <br/> BECAUSE OF THE TIME IT WILL TAKE TO ACCOMPLISH IT. <br/>
+> THE TIME WILL PASS ANYWAY.<br /> 
 ###### *EARL NIGHTINGALE*
 <br />
 
