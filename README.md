@@ -9,7 +9,7 @@
 > ###### **_EARL NIGHTINGALE_**
 <br />
 
-- 🔭 I’m currently working on new metrics and tools for my [Capstone Project](https://github.com/AlexisRoe/Artemis)<br />
+- 🔭 I’m currently working on new metrics and tools for my bootcamp capstone project [Artemis](https://github.com/AlexisRoe/Artemis)<br />
 - 🌱 I’m currently learning **Typescript, Server-Side-Rendering (Next.js), Headless-CMS (Strapi), graphs with D3.js**
 - 🔑 I’m passionate about security, authentication and information representation
 
