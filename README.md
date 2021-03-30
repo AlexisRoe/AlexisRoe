@@ -4,9 +4,13 @@
 [![Linkedin: Alexis Roehrling](https://img.shields.io/badge/-alexisroehrling-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/inalexisroehrling/)](https://www.linkedin.com/in/alexisroehrling/)
 [![Gmail: Alexis Roehrling](https://img.shields.io/badge/-A.Roehrling-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:A.Roehrling+githubprofile@gmail.com)](mailto:A.Roehrling+githubprofile@gmail.com) 
 
-Welcome to my profile, follow me on my path to become a Web Developer after the Neue Fische Cologne Bootcamp. In my capstone projet [Artemis Capstone Project](https://github.com/AlexisRoe/Artemis), I build a function sheet 2.0. Function sheets are the tool for spreading informations in a hotel, so every employee can work with them and can successfully handle events. I´m interested in information representation. 
+> "NEVER GIVE UP ON A DREAM JUST BECAUSE OF THE TIME IT WILL TAKE TO ACCOMPLISH IT. 
+> THE TIME WILL PASS ANYWAY.”<br /> 
+###### *EARL NIGHTINGALE*
+<br />
 
 - 🔭 I’m currently working on new metrics and tools for my [Capstone Project](https://github.com/AlexisRoe/Artemis)
+<p>In my capstone projet [Artemis Capstone Project](https://github.com/AlexisRoe/Artemis), I build a function sheet 2.0. Function sheets are the tool for spreading informations in a hotel, so every employee can work with them and can successfully handle events.</p>
 - 🌱 I’m currently learning **Typescript, Server-Side-Rendering (Next.js), Headless-CMS (Strapi), graphs with D3.js**
 - 🔑 I’m passionate about security, authentication and information representation
 
