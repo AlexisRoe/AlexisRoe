@@ -1,23 +1,32 @@
-## Moin Moin, I´m Alexis 
-### Backend Engineer
+### Moin, I'm Alexis 👋
 
-[![Linkedin: Alexis Roehrling](https://img.shields.io/badge/-alexisroehrling-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/inalexisroehrling/)](https://www.linkedin.com/in/alexisroehrling/)
-[![Gmail: Alexis Roehrling](https://img.shields.io/badge/-A.Roehrling-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:A.Roehrling+githubprofile@gmail.com)](mailto:A.Roehrling+githubprofile@gmail.com) 
+I'm a **Backend Engineer from Cologne moving into application security**. I build backends with security designed in from the start: typed IDs, scoped auth, rate limiting, hardened containers and supply-chain checks. Right now I'm building **Minerva**, a phishing and email analysis platform, and learning **Rust** by rewriting a production-style backend.
 
-> NEVER GIVE UP ON A DREAM JUST <br/> BECAUSE OF THE TIME IT WILL TAKE TO ACCOMPLISH IT. <br/>
-> THE TIME WILL PASS ANYWAY.<br /> 
-> ###### **_EARL NIGHTINGALE_**
-<br />
+- 🔭 **Currently working on:** [Minerva](https://github.com/AlexisRoe/minerva), a tool for reporting and analysing suspicious emails to improve an organisation's security posture
+- 🌱 **Currently learning:** Rust (axum, sqlx, tokio), email security (headers, SPF/DKIM/DMARC, phishing indicators) and secure-by-design architecture
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/alexisroehrling/) | [Email](mailto:A.Roehrling+githubprofile@gmail.com)
 
-- 🔭 I’m currently working on new metrics and tools for my bootcamp capstone project **[Artemis](https://github.com/AlexisRoe/Artemis)**<br />
-- 🌱 I’m currently learning **[Typescript](https://www.typescriptlang.org/), Server-Side-Rendering ([Next.js](https://nextjs.org/)), [PostgreSQL](https://www.postgresql.org/) with [pg-promise](https://github.com/vitaly-t/pg-promise)**
-- 🔑 I’m passionate about security, authentication and information representation
+---
 
-### Language and Tools
-<p align="left"> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### 🚀 Featured Projects
 
-### Statistics
+1. **[Minerva](https://github.com/AlexisRoe/minerva)**: report suspicious emails and turn them into structured, reviewable analysis cases.
+   - **Tech:** TypeScript, NestJS, React, Python workers, PostgreSQL, Valkey, S3 (Garage), Caddy, Docker
+   - **Highlight:** A pnpm monorepo with a shared typed job contract between services, so a payload change breaks the build instead of production. An isolated image proxy for rendering email content safely is planned. Parsing and analysis experiments live in a separate [Python lab](https://github.com/AlexisRoe/minerva-experimental-email-parser-and-analyser).
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexisroe&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexisroe&layout=compact)](https://github.com/alexisroe/github-readme-stats)
+2. **[Ledgerly-Rust](https://github.com/AlexisRoe/Ledgerly-Rust)**: an expense-approval REST backend, rewritten from [Java/Spring Boot](https://github.com/AlexisRoe/Ledgerly-Java) as a drop-in Rust replacement. ([Live demo](https://ledgerly-rust.a-roehrling.workers.dev/))
+   - **Tech:** Rust, axum, sqlx, tokio, PostgreSQL, Docker
+   - **Highlight:** Security by design (typed IDs, secrets that can't be logged, team-scoped queries, an SSRF architecture test, malware scanning of uploads, no `unwrap`/`panic!` outside tests). Both versions pass the same black-box parity test suite. Comes with a 128-lesson *Rust for TypeScript developers* course.
 
+3. **[e-ink-ui-lib](https://github.com/AlexisRoe/e-ink-ui-lib)**: a React component library for e-ink tablets, published on [npm](https://www.npmjs.com/package/e-ink-ui-lib). ([Storybook](https://e-ink-ui-lib.a-roehrling.workers.dev/?path=/docs/about--docs))
+   - **Tech:** TypeScript, React, CSS, Storybook, GitHub Actions
+   - **Highlight:** 75+ components designed for slow-refresh greyscale screens (no hover, no animations). It powers my local-first PWAs: [PaperFlow](https://github.com/AlexisRoe/project-management-for-e-ink), [HabitTracker](https://github.com/AlexisRoe/habit-tracker-for-e-ink) and the [Spacecraft Mock Interface](https://github.com/AlexisRoe/spacecraft-mock-interface).
+
+---
+
+### 🛠️ Tech Stack
+
+- **Core:** TypeScript, JavaScript, Python, SQL
+- **Frameworks & Libraries:** Node.js, NestJS, React, Vite, FastAPI, Storybook
+- **Data & Infra:** PostgreSQL, Redis/Valkey, S3-compatible storage, Docker, Caddy, Cloudflare Workers, GitHub Actions, Linux
+- **Currently learning:** Rust (axum, sqlx), Java & Spring Boot, application security and email threat analysis
